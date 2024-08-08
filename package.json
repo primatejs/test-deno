@@ -1,0 +1,9 @@
+{
+  "name": "test-deno",
+  "scripts": {
+    "start": "deno run -A npm:primate"
+  },
+  "dependencies": {
+    "primate": "^0.32.1"
+  }
+}
