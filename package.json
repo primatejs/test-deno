@@ -4,6 +4,6 @@
     "start": "deno run -A npm:primate"
   },
   "dependencies": {
-    "primate": "^0.32.1"
+    "primate": "^0.32.3"
   }
 }
